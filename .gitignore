@@ -1,6 +1,7 @@
 # Data folder 
 data/
 anonymized/
+*.csv
 
 test.ipynb
 
